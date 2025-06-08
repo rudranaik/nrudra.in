@@ -1,0 +1,7 @@
+baseURL = "https://nrudra.in/"
+languageCode = "en-us"
+title = "Rudra's Blog"
+theme = "KeepIt"
+
+[pagination]
+  pagerSize = 5
